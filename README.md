@@ -1,4 +1,4 @@
-# Hotel Management System (Java Servlet + JSP + MySQL)
+# Hotel Management System 
 
 A complete Hotel Management System built using **Java Servlets**, **JSP**, **JDBC**, and **MySQL**, developed in **Eclipse IDE**.  
 This project manages booking, check-in, check-out, room management, employee management, and transaction history.
