@@ -1,7 +1,8 @@
 # Hotel Management System 
 
 A complete Hotel Management System built using **Java Servlets**, **JSP**, **JDBC**, and **MySQL**, developed in **Eclipse IDE**.  
-This project manages booking, check-in, check-out, room management, employee management, and transaction history.
+
+This project manages booking, check-in, check-out, room management, employee management, and transaction history. It is a web-based application designed to streamline hotel operations. The system provides an efficient interface for hotel staff and administrators to manage daily operations.
 
 ---
 
@@ -88,8 +89,14 @@ src/main/java/com/hotel/util/DBConnection.java
 
 ---
 
+## Acknowledgement
+
+Built with love with the help of CipherSchools.
+
+---
+
 ## Author
 
 **Shashwat Gupta**  
 - Student at Amity University, Noida  
-- Developer and innovator with expertise in Java, AI/ML, and web applications  
+- Developer and innovator with expertise in Java, AI/ML, and web applications
